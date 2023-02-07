@@ -1,0 +1,1 @@
+streamlit run st_learn.py -- --projectId=1o1 --traindatasetId=1 --modelId=1 --dataPath=/home/wfs/projects/1o1/traindataset/4/data/1/images --labelPath=/home/wfs/projects/1o1/traindataset/4/label --modelPath=/home/wfs/projects/1o1/traindataset/4/models/1

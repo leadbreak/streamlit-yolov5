@@ -1,0 +1,12 @@
+/home/wfs/projects/1/traindataset/4/images/image-002.jpg
+/home/wfs/projects/1/traindataset/4/images/image-003.jpg
+/home/wfs/projects/1/traindataset/4/images/image-001.jpg
+/home/wfs/projects/1/traindataset/4/images/image-012.jpg
+/home/wfs/projects/1/traindataset/4/images/image-008.jpg
+/home/wfs/projects/1/traindataset/4/images/image-007.jpg
+/home/wfs/projects/1/traindataset/4/images/image-011.jpg
+/home/wfs/projects/1/traindataset/4/images/image-005.jpg
+/home/wfs/projects/1/traindataset/4/images/image-010.jpg
+/home/wfs/projects/1/traindataset/4/images/image-004.jpg
+/home/wfs/projects/1/traindataset/4/images/image-006.jpg
+/home/wfs/projects/1/traindataset/4/images/image-009.jpg

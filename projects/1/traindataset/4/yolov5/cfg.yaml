@@ -1,0 +1,6 @@
+names: [car, face, motorcycle, person]
+nc: 4
+path: /home/wfs/projects/1/traindataset/4/models/yolo
+test: train.txt
+train: train.txt
+val: train.txt

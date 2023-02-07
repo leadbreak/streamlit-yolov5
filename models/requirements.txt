@@ -1,0 +1,19 @@
+absl-py
+altair
+easydict
+matplotlib
+numpy
+opencv-python==4.2.0.34
+opencv-contrib-python==4.2.0.34
+pandas
+Pillow
+psutil
+tensorflow==2.3.0
+streamlit
+fastapi[all]
+requests
+
+--extra-index-url https://download.pytorch.org/whl/cu111
+torch==1.10.2+cu111
+torchvision==0.11.3+cu111
+torchaudio==0.10.2+cu111
